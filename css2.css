@@ -1,0 +1,21 @@
+ p{
+                
+            }
+            .design{
+                border:2px solid black ;
+                padding:40;
+            }
+            ol li{
+                font-size: 20px;
+            }
+            
+            .design td
+            {
+                font-size: 25;
+            }
+            .bbutton{
+                font-size: 40;
+            }
+            #tx1{
+                font-size: 20px;
+            }
