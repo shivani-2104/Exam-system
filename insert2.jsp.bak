@@ -1,6 +1,3 @@
-
-
-// shivani branch code
 <%@page import="java.sql.*"%>
 <%
 String s1 = request.getParameter("sname");
